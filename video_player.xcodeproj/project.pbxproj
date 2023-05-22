@@ -16,6 +16,7 @@
 		A71F9E682A13DE720046051A /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71F9E672A13DE720046051A /* video_playerTests.swift */; };
 		A71F9E722A13DE720046051A /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71F9E712A13DE720046051A /* video_playerUITests.swift */; };
 		A71F9E742A13DE720046051A /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71F9E732A13DE720046051A /* video_playerUITestsLaunchTests.swift */; };
+		A71F9E832A1B6F1C0046051A /* sampleVid.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A71F9E822A1B6F1C0046051A /* sampleVid.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A71F9E6D2A13DE720046051A /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A71F9E712A13DE720046051A /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		A71F9E732A13DE720046051A /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A71F9E822A1B6F1C0046051A /* sampleVid.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sampleVid.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A71F9E502A13DE710046051A /* AppDelegate.swift */,
 				A71F9E522A13DE710046051A /* SceneDelegate.swift */,
 				A71F9E542A13DE710046051A /* ViewController.swift */,
+				A71F9E822A1B6F1C0046051A /* sampleVid.mp4 */,
 				A71F9E562A13DE710046051A /* Main.storyboard */,
 				A71F9E592A13DE710046051A /* Assets.xcassets */,
 				A71F9E5B2A13DE710046051A /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 				A71F9E5D2A13DE710046051A /* LaunchScreen.storyboard in Resources */,
 				A71F9E5A2A13DE710046051A /* Assets.xcassets in Resources */,
 				A71F9E582A13DE710046051A /* Main.storyboard in Resources */,
+				A71F9E832A1B6F1C0046051A /* sampleVid.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
